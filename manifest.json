@@ -998,6 +998,16 @@
       "version": "0.1"
     },
     {
+      "description": "Syntax for the [Gradle](https://docs.gradle.org/current/userguide/userguide.html) Java build framework scripting language",
+      "id": "language_gradle",
+      "mod_version": "3",
+      "path": "plugins/language_gradle.lua",
+      "tags": [
+        "language"
+      ],
+      "version": "0.1"
+    },
+    {
       "description": "Syntax for the [GraphQL](https://graphql.org/) query language, and server-side runtime for executing queries using a type system.",
       "id": "language_graphql",
       "mod_version": "3",
