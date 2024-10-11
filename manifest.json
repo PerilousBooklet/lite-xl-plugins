@@ -160,6 +160,7 @@
         "language_typst": {},
         "language_umka": {},
         "language_v": {},
+        "language_wesnoth_formula": {},
         "language_wren": {},
         "language_yaml": {},
         "language_zig": {}
@@ -1669,6 +1670,16 @@
       "id": "language_vale",
       "mod_version": "3",
       "remote": "https://github.com/programutox/lite-plugin-vale:faa75f67b093978ceebc31bb7db8aa297f3c3e52",
+      "tags": [
+        "language"
+      ],
+      "version": "0.1"
+    },
+    {
+      "description": "Syntax for the [Wesnoth Formula](https://wiki.wesnoth.org/Wesnoth_Formula_Language) programming language.",
+      "id": "language_wesnoth_formula",
+      "mod_version": "3",
+      "path": "plugins/language_wesnoth_formula.lua",
       "tags": [
         "language"
       ],
