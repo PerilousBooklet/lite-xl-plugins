@@ -61,6 +61,7 @@
     {
       "dependencies": {
         "language_angelscript": {},
+        "language_asciidoc": {},
         "language_assembly_riscv": {},
         "language_assembly_x86": {},
         "language_autohotkey_v1": {},
@@ -647,6 +648,16 @@
       "id": "language_assembly_x86",
       "mod_version": "3",
       "path": "plugins/language_assembly_x86.lua",
+      "tags": [
+        "language"
+      ],
+      "version": "0.1"
+    },
+    {
+      "description": "Syntax for the AsciiDoc plain text markup language.",
+      "id": "language_asciidoc",
+      "mod_version": "3",
+      "path": "plugins/language_asciidoc.lua",
       "tags": [
         "language"
       ],
