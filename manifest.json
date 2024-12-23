@@ -2051,8 +2051,8 @@
       "id": "ptm",
       "mod_version": "3",
       "name": "Project Template Manager",
-      "remote": "https://github.com/PerilousBooklet/lite-xl-ptm:f6695fa842af9d23769fdf25ad7fa9ebcfcb6e8d",
-      "version": "0.1.0"
+      "remote": "https://github.com/PerilousBooklet/lite-xl-ptm:07774f70fb5281c3f8d986d3929eda1df18cf0a4",
+      "version": "0.2.0"
     },
     {
       "description": "Turns Lite XL into a terminal based editor.",
