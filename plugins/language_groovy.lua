@@ -6,7 +6,7 @@ local syntax = require "core.syntax"
 
 syntax.add {
   name = "Groovy",
-  files = { "%.groovy$", "%.gvy$", "%.gy$", "%.gsh$" },
+  files = { "%.groovy$", "%.gvy$", "%.gy$", "%.gsh$", PATHSEP .. "Jenkinsfile$" },
   comment = "//",
   block_comment = { "/*", "*/" },
   patterns = {
